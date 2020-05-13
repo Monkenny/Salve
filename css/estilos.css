@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://img.ibxk.com.br/2016/07/13/13142826774362.gif);
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style : none;
+  }
+  
+  a {
+    color: green;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: black;
+    text-align: center; 
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
