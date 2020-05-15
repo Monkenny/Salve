@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://img.ibxk.com.br/2016/07/13/13142826774362.gif);
+    background-image: url(https://tendencee.com.br/wp-content/uploads/2019/04/Vortices-preto-e-branco-engolem-pedacos-de-dados-e-redemoinhos-semelhantes-a-fumaca-em-looping-Animacoes-por-Etienne-Jacob-tiniMnLaKG.gif);
     background-size: auto 100vh;
     font-family: arial;
     height: 100vh;
@@ -18,7 +18,7 @@ body {
   }
   
   a {
-    color: green;
+    color: blue;
     text-decoration: none;
   }
   
@@ -28,7 +28,7 @@ body {
   
   .site-subtitle,
   .site-title {
-    color: black;
+    color: white;
     text-align: center; 
   }
   .site-subtitle {
